@@ -29,3 +29,6 @@ The objective was to transform raw transactional data into a client-ready busine
 - Promote high-performing products through targeted campaigns.
 - Explore opportunities to expand in underperforming regions.
 - Use demand trends for improved inventory planning.
+
+## Dashboard Access
+The interactive dashboard can be accessed by downloading the Power BI file from this repository and opening it in Power BI Desktop.
